@@ -4,9 +4,11 @@ A mini patcher for macOS Monterey by Ben Sova.
 **Only supports Mid-2013 and later Macs (with exceptions) for now.**
 
 ## Wait, where's the UI?!
-**This in no way is the squal to Patched Sur.** This will only be a terminal-based patcher.
+**The sequal of Patched Sur will be [Patched Monterey](https://github.com/Ursinia/Patched-Monterey)**
 
-**I have this so I can play with Monterey without building a full UI patcher.** Which will come out before the full release of Monterey with many previews and betas along the way.
+**For Now we have Mini Monterey which is in no way is the squal to Patched Sur.** 
+
+**As this will only be a terminal-based patcher.**
 
 Also, no Patched Monterey will not be exclusive to Mid-2013 and later Macs, I've already got a fix, but for various reasons, I can't use it in this patch.
 
