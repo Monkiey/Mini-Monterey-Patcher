@@ -6,7 +6,7 @@ A mini patcher for macOS Monterey by Ben Sova.
 ## Wait, where's the UI?!
 **The sequal of Patched Sur will be [Patched Monterey](https://github.com/Ursinia/Patched-Monterey)**
 
-**For Now we have Mini Monterey which is in no way is the sequal to Patched Sur.** 
+**For now we have Mini Monterey which is in no way is the sequal to Patched Sur.** 
 
 **As this only a terminal-based patcher.**
 
